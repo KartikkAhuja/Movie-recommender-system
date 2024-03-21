@@ -9,3 +9,5 @@ Created a recommendation engine that utilizes these similarities to provide pers
 on a given movie.
 
 Tech stack and libraries- Python, Word2Vec
+
+# Data set not uploaded due to size limit
