@@ -8,4 +8,4 @@ measure the closeness between movie descriptions.
 Created a recommendation engine that utilizes these similarities to provide personalized movie recommendations based
 on a given movie.
 
-Tech stack and libraries- Python, Word2Vec, Tensorflow
+Tech stack and libraries- Python, Word2Vec
