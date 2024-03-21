@@ -10,4 +10,4 @@ on a given movie.
 
 Tech stack and libraries- Python, Word2Vec
 
-# Data set not uploaded due to size limit
+# Dataset not uploaded due to size limit
